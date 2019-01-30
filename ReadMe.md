@@ -1,5 +1,5 @@
 
- -><center><img src="tetris_demo.png" height=500 width=280/></center><-
+ <div style="text-align:center"><img src="tetris_demo.png" height=500 width=280/></div>
       
 
 
