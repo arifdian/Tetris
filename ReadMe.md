@@ -1,5 +1,5 @@
 
- <center><img src="tetris_demo.png" height=500 width=280/></center> 
+ -><center><img src="tetris_demo.png" height=500 width=280/></center><-
       
 
 
@@ -7,16 +7,14 @@
 
 # Introduction
 
-A mock-up project with the theme "food delivery service" in mind. This prototypes are created using software/interface
-called Axure with features that allows interactive content such as animations and data-driven interaction with clicks 
-of a button. Moreover, that allows designer such as myself to use those feature to create a content friendly interaction
-application that could follow the criteria of HCI to further be standardized as a "dummy" that could be applied in real-time
-and society. 
+A java project called "a simple game of tetris". It was a final project for the last part of Java programming class in Indiana
+University. The game might seems simple but the features visualized for a tetris game is suitable for an object-oriented language.
+This is because there are many classifications in a tetris such as lines, blocks, color, moves and etc, that would required to be 
+pre-defined before going into building the fundamentals of "playing a tetris game". 
 
 
 # Features
-* color-based content to easily differentiate between buttons and menus, hence creating a better interface for the user and
-  also ease of use and less time to decide or navigate.
-* Menus and sub-menus to better demonstrate the hierarchy to reduce the time taken to navigate through the app.
-* Real-time data such as availability and ratings to improve usability and reduce decision making times making the app,
-  an efficient tool. 
+* blocks of different color to better visualize the difference when playing a game of tetris.
+  Implemented by using the Java GUI feature.
+* navigation by left, right, up, down button. Implemented by using Java GUI feature.
+* End function to end the game of tetris.
