@@ -1,5 +1,5 @@
 
- <center><img src="mockup1.jpg" height=500 width=280/></center> 
+ <center><img src="tetris_demo.png" height=500 width=280/></center> 
       
 
 
